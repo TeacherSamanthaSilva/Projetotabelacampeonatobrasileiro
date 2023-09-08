@@ -1,0 +1,15 @@
+
+h1{
+    color: green;
+}
+
+thead{
+    background-color: green;
+    color: yellow;
+    padding: 10px;
+}
+
+tbody{
+    background-color: yellow;
+    color: green;
+}
